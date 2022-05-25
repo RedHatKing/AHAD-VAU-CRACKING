@@ -15,4 +15,4 @@ $ pip install mechanize
 $ pip install colorama"
 
  
-git clone https://ahad-vau-king.github.io/AHAD-VAU-CRACKING/
+git clone https://github.com/AHAD-VAU-KING/AHAD-VAU-CRACKING/
