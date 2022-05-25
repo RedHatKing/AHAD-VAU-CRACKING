@@ -19,5 +19,9 @@ pip install colorama
 git clone https://github.com/AHAD-VAU-KING/AHAD-VAU-CRACKING/
 
 cd AHAD-VAU-CRACKING
+
+
 ls
+
+
 python ahad.py
